@@ -1,7 +1,12 @@
-const Bookmarks = () => {
+import Bookmark from "../Bookmark/Bookmark";
+
+const Bookmarks = ({bookmarks}) => {
     return (
         <div>
-            Bookmarks
+            <h1 className="font-bold my-4">Bookmarked Blog : {bookmarks.length} </h1>
+            {
+                bookmarks.map(bookmark => <Bookmark key={bookmark.id} bookmark={bookmark}></Bookmark>)
+            }
         </div>
     );
 };
