@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/sWmqNVc/1.jpg",
+      "title": "Mastering JavaScript in 2024",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co.com/y5SMdN7/boy1.png",
+      "posted_date": "2024-10-23",
+      "reading_time": 8,
+      "hashtags": ["JavaScript", "WebDev", "Programming"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/31RqsS2/2.png",
+      "title": "The Future of Web Development",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co.com/B2bQCPc/boy2.jpg",
+      "posted_date": "2024-09-15",
+      "reading_time": 12,
+      "hashtags": ["WebDev", "CSS", "HTML", "ResponsiveDesign"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/WWqvxRp/hq720.jpg",
+      "title": "10 Python Tricks You Should Know",
+      "author": "Alice Johnson",
+      "author_img": "https://i.ibb.co.com/K7VxRZf/girl1.jpg",
+      "posted_date": "2024-08-30",
+      "reading_time": 5,
+      "hashtags": ["Python", "Programming", "Coding"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/J5yB77x/324bs-Artificial-Intelligence-Machine-Learning.webp",
+      "title": "Understanding AI and Machine Learning",
+      "author": "Bob Brown",
+      "author_img": "https://i.ibb.co.com/K7VxRZf/girl1.jpg",
+      "posted_date": "2024-07-12",
+      "reading_time": 15,
+      "hashtags": ["AI", "MachineLearning", "Tech"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co.com/XyszwTV/3.png",
+      "title": "A Beginner’s Guide to React",
+      "author": "Chris Green",
+      "author_img": "https://i.ibb.co.com/1TR59JQ/girl2.jpg",
+      "posted_date": "2024-06-25",
+      "reading_time": 10,
+      "hashtags": ["React", "JavaScript", "Frontend"]
+    }
+  ]
+  
